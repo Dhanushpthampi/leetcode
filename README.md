@@ -6,6 +6,7 @@ the solutions i created for leetcode
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Dhanushpthampi/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0068-text-justification](https://github.com/Dhanushpthampi/leetcode/tree/master/0068-text-justification) |
 | [0179-largest-number](https://github.com/Dhanushpthampi/leetcode/tree/master/0179-largest-number) |
 ## String
@@ -25,4 +26,8 @@ the solutions i created for leetcode
 |  |
 | ------- |
 | [0068-text-justification](https://github.com/Dhanushpthampi/leetcode/tree/master/0068-text-justification) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Dhanushpthampi/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
