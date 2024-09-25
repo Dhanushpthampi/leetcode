@@ -8,6 +8,7 @@ the solutions i created for leetcode
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Dhanushpthampi/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0068-text-justification](https://github.com/Dhanushpthampi/leetcode/tree/master/0068-text-justification) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Dhanushpthampi/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Dhanushpthampi/leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Dhanushpthampi/leetcode/tree/master/0179-largest-number) |
 ## String
@@ -44,4 +45,8 @@ the solutions i created for leetcode
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Dhanushpthampi/leetcode/tree/master/0169-majority-element) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Dhanushpthampi/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
