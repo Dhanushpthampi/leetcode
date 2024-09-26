@@ -14,6 +14,7 @@ the solutions i created for leetcode
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Dhanushpthampi/leetcode/tree/master/0014-longest-common-prefix) |
 | [0068-text-justification](https://github.com/Dhanushpthampi/leetcode/tree/master/0068-text-justification) |
 | [0179-largest-number](https://github.com/Dhanushpthampi/leetcode/tree/master/0179-largest-number) |
 ## Greedy
@@ -49,4 +50,8 @@ the solutions i created for leetcode
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dhanushpthampi/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Dhanushpthampi/leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
