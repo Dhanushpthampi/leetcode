@@ -15,6 +15,7 @@ the solutions i created for leetcode
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Dhanushpthampi/leetcode/tree/master/0014-longest-common-prefix) |
+| [0058-length-of-last-word](https://github.com/Dhanushpthampi/leetcode/tree/master/0058-length-of-last-word) |
 | [0068-text-justification](https://github.com/Dhanushpthampi/leetcode/tree/master/0068-text-justification) |
 | [0179-largest-number](https://github.com/Dhanushpthampi/leetcode/tree/master/0179-largest-number) |
 ## Greedy
