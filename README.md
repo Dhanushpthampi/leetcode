@@ -18,6 +18,7 @@ the solutions i created for leetcode
 | [0058-length-of-last-word](https://github.com/Dhanushpthampi/leetcode/tree/master/0058-length-of-last-word) |
 | [0068-text-justification](https://github.com/Dhanushpthampi/leetcode/tree/master/0068-text-justification) |
 | [0179-largest-number](https://github.com/Dhanushpthampi/leetcode/tree/master/0179-largest-number) |
+| [1146-greatest-common-divisor-of-strings](https://github.com/Dhanushpthampi/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/Dhanushpthampi/leetcode/tree/master/1894-merge-strings-alternately) |
 ## Greedy
 |  |
@@ -57,4 +58,8 @@ the solutions i created for leetcode
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Dhanushpthampi/leetcode/tree/master/0014-longest-common-prefix) |
+## Math
+|  |
+| ------- |
+| [1146-greatest-common-divisor-of-strings](https://github.com/Dhanushpthampi/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
