@@ -18,6 +18,7 @@ the solutions i created for leetcode
 | [0058-length-of-last-word](https://github.com/Dhanushpthampi/leetcode/tree/master/0058-length-of-last-word) |
 | [0068-text-justification](https://github.com/Dhanushpthampi/leetcode/tree/master/0068-text-justification) |
 | [0179-largest-number](https://github.com/Dhanushpthampi/leetcode/tree/master/0179-largest-number) |
+| [1894-merge-strings-alternately](https://github.com/Dhanushpthampi/leetcode/tree/master/1894-merge-strings-alternately) |
 ## Greedy
 |  |
 | ------- |
@@ -35,6 +36,7 @@ the solutions i created for leetcode
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Dhanushpthampi/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [1894-merge-strings-alternately](https://github.com/Dhanushpthampi/leetcode/tree/master/1894-merge-strings-alternately) |
 ## Hash Table
 |  |
 | ------- |
